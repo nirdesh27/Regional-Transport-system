@@ -1,6 +1,7 @@
 # regionalTransport-system
 This project is build on EOS blockchain to enhance the transport system.
 
+first clone this repo
 Project requirements:
 EOS version v1.2.3
 
