@@ -1,6 +1,8 @@
-/*
-author: Nirdesh Kumar Choudhary 
-this contract works on the concept of : 
+/**
+Copyright All Rights Reserved by Nirdesh Kumar
+Project : Regional-transportation-system
+Authors: Nirdesh Kumar 
+Purpose: Create a Regional transacportation on EOS Blockchain. For more knowledge reger README docs
 */
 
 #include "mixproject.hpp"
