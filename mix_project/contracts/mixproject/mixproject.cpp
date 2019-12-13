@@ -81,7 +81,7 @@ void MixprojectContract::feeddetails(uint64_t ownerssn, string license, string o
     {
         print("data already exist\t");
     }
-    ////////////////////////////////////////second table /////////////////////////////////////
+    //______________________________________________second Table ____________________________________________
     __vehicle tvehicle(_self, _self);
     auto iter1 = tvehicle.find(eosio::string_to_name(vehicle_id.c_str()));
     if (iter1 == tvehicle.end())
